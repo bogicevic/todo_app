@@ -71,14 +71,7 @@ input:focus {
 }
 
 input:hover {
-  color: #59abcc;
-}
-
-#container {
-  margin: 100px auto;
-  width: 360px;
-  background: #f7f7f7;
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  color: #59bbcc;
 }
 
 .completed {
@@ -88,4 +81,11 @@ input:hover {
 
 .fa-language {
   float: right;
+}
+
+#container {
+  margin: 100px auto;
+  width: 360px;
+  background: #f6f6f6;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
 }
